@@ -1,4 +1,4 @@
-### Hi there, I´m Rodrigo 👋
+### Hi there, welcome to my profile! 👋
 
 ## I´m a hospitality professional doing reskilling!
 
