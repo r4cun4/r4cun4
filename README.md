@@ -3,10 +3,10 @@
 ## I´m a hospitality professional doing reskilling!
 
 
-- :construction_worker: I’m currently working on my portfolio
-- :brain: I’m constantly learning! Javascript, React, CSS3
+- :construction_worker: I’m currently working as a Frontend Dev with VTEX
+- :brain: I’m constantly learning! Javascript Vanilla & CSS3
 - :fist_right::fist_left: I’m looking to collaborate with trainees as I am
-- :date: 2021 Goal : to get My First It Job as a Front-end!
+- :date: 2022 Goal : Learn React !
 - 💬 Ask me about ... Anything
 
 <h3 align="center">Connect with me:</h3>
