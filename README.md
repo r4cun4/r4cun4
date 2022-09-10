@@ -26,7 +26,7 @@
         <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/>
     </a>
     <a href="https://lesscss.org/" target="_blank">
-        <img src="https://lesscss.org/public/img/less_logo.png" alt="less" width="40" height="40"/>
+        <img src="https://lesscss.org/public/img/less_logo.png" alt="less" width="60" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
