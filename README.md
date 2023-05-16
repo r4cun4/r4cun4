@@ -2,8 +2,8 @@
 
 ## I´m a hospitality professional doing reskilling!
 
-- :brain: I’m constantly learning! Javascript Vanilla & CSS3
-- :date: 2022 Goal : Learn Vue JS !
+- :brain: I’m constantly learning Javascript and Vuejs!
+- :date: 2023 Goal : Learn Nodejs !
 - 💬 Ask me about ... Anything
 
 <h3 align="center">Connect with me:</h3>
