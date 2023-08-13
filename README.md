@@ -1,9 +1,9 @@
 ### Hello there, welcome to my profile! 👋
 
-## I´m a hospitality professional doing reskilling!
+## I´m a Front-end Developer
 
-- :brain: I’m constantly learning Javascript and Vuejs!
-- :date: 2023 Goal : Learn Nodejs !
+- :brain: I’m constantly learning Javascript!
+- :date: 2023 Goal : To be an official certified Vuejs Developer !
 - 💬 Ask me about ... Anything
 
 <h3 align="center">Connect with me:</h3>
