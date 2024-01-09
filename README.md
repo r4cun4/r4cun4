@@ -3,7 +3,7 @@
 ## I´m a Front-end Developer
 
 - :brain: I’m constantly learning Javascript!
-- :date: 2023 Goal : To be an official certified Vuejs Developer !
+- :date: 2024 Goal : To be an official certified Vuejs Developer !
 - 💬 Ask me about ... Anything
 
 <h3 align="center">Connect with me:</h3>
