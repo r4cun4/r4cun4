@@ -14,7 +14,7 @@
     </a>
 </p>
 
-<h3 align="center">Languages and Frameworks:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5 logo" width="40" height="40"/>
@@ -45,5 +45,20 @@
     </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://git-scm.com/images/logo@2x.png" alt="Git logo" width="80" height="40"/>
+    </a>
+    <a href="https://nodejs.org/en" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node logo" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/ar/products/photoshop.html" target="_blank">
+        <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Photoshop logo" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/ar/products/illustrator.html" target="_blank">
+        <img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="Illustrator logo" width="40" height="40"/>
+    </a>
+    <a href="https://helpx.adobe.com/ar/xd/help/whats-new.html" target="_blank">
+        <img src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="Xd logo" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma logo" width="40" height="40"/>
     </a>
 </p>
