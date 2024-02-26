@@ -16,7 +16,7 @@
 
 <h3 align="center">Languages and Frameworks:</h3>
 <p align="center">
-    <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" style="text-decoration: none;">
+    <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" style="text-decoration: none!important;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5 logo" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
