@@ -1,24 +1,18 @@
 ### Hello there, welcome to my profile! 👋
-
-***
-
+#
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=42D392&center=true&random=false&width=435&lines=%3CFrontend+Developer%2F%3E)](https://git.io/typing-svg)
 
+I am Rodrigo Alejandro Acuña and I have over 2 years of experience working as a web/frontend developer, 1 of them working as a freelancer. 
 
-:brain: I’m constantly learning Javascript!
+I offer high motivation, ambition, attention to detail. I am open-hearted and reliable. I have a determined way of working.
 
-
-:date: 2024 Goal : To be an official certified Vuejs Developer !
-
-
-💬 Ask me about ... Anything
+When I'm not sitting in front of a laptop, you can find me enjoying precious moments with my family, or playing football with friends, I value the time spent building connections with my loved ones.
 
 </div>
 
-***
-
+#
 
 <h3 align="center">Get in touch:</h3>
 <p align="center">
@@ -30,7 +24,7 @@
   </a>&nbsp;&nbsp;  
 </p>
 
-***
+#
 
 <div align="center">
 <h3 align="center">My Skills:</h3>
