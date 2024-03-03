@@ -1,6 +1,7 @@
-### Hello there, welcome to my profile! 👋
-#
+
 <div align="center">
+
+![Alt Text](https://media.giphy.com/media/F9hQLAVhWnL56/giphy.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=42D392&center=true&random=false&width=435&lines=%3CFrontend+Developer%2F%3E)](https://git.io/typing-svg)
 
