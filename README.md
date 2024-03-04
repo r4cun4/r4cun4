@@ -30,7 +30,7 @@ When I'm not sitting in front of a laptop, you can find me enjoying precious mom
 <div align="center">
 <h3 align="center">My Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,less,tailwind,vue,nuxt,pinia,vite,nodejs,npm,git,ubuntu,firebase,figma,ps,ai,xd,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,less,tailwind,vue,nuxt,pinia,vite,nodejs,npm,pnpm,yarn,git,github,gitlab,ubuntu,windows,firebase,figma,ps,ai,xd,vscode,discord,stackoverflow&perline=7)](https://skillicons.dev)
 
 </div>
 
